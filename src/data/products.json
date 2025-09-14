@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "brand": "Gucci",
+    "item": "GG Marmont Matelassé Bag",
+    "originalPrice": 2200,
+    "salePrice": 1500,
+    "image": "https://via.placeholder.com/300?text=Gucci+Bag",
+    "link": "https://www.gucci.com/"
+  },
+  {
+    "id": 2,
+    "brand": "Prada",
+    "item": "Leather Sneakers",
+    "originalPrice": 950,
+    "salePrice": 700,
+    "image": "https://via.placeholder.com/300?text=Prada+Sneakers",
+    "link": "https://www.prada.com/"
+  },
+  {
+    "id": 3,
+    "brand": "Saint Laurent",
+    "item": "Kate Chain Bag",
+    "originalPrice": 2450,
+    "salePrice": 1900,
+    "image": "https://via.placeholder.com/300?text=YSL+Bag",
+    "link": "https://www.ysl.com/"
+  }
+]
